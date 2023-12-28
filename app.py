@@ -20,12 +20,22 @@ def predict_entities(text):
     return highlighted_text
 
 # gradio interface
-iface = gr.Interface(
+title = "Named Entity Recognizer"
+
+description = """
+This model has been trained to identify entities in a given text. It returns the input text with the entities highlighted in green. Give it a try!
+"""
+
+article = "The model is trained using bert-finetuned-ner."
+
+iface  = gr.Interface(
     fn=predict_entities,
     inputs=gr.Textbox(lines=5, placeholder="Enter text..."),
     outputs=gr.HTML(),
-    title="Named Entity Identification",
-    description="Enter text to identify entities using the model.",
+    title=title,
+    description=description,
+    article=article,
+    examples=[["Hello, I am Kabeer. I work as a machine learning engineer at OVO in the UK"], ["This is Maryam who is a Leicester based NHS Doctor"]],
 )
 
 iface.launch()
