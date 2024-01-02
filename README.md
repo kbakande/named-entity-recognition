@@ -21,6 +21,9 @@ This repository contains the source code for a Named Entity Recognition (NER) ap
 - **Interactive NER**: The core feature of this app is to identify named entities in any given text. It classifies entities into predefined categories like names, locations, organizations, etc.
 - **Hugging Face Integration**: The app is designed to be compatible with Hugging Face Spaces, providing a user-friendly interface and easy access.
 
+## Demonstration
+The image below shows the app in action. You can also try it put ![here!](images/named_entity_viz.png)
+
 ## Repository Structure
 
 ```graphql
