@@ -55,14 +55,14 @@ Contributions to improve the app or documentation are welcome. Please read our c
 
 ## Dependencies
 
-    Key Python libraries and frameworks used in this project:
+Key Python libraries and frameworks used in this project:
 
-    * [Transformers](https://pypi.org/project/transformers/)
-    * [Dataset](https://pypi.org/project/datasets/)
-    * [Evaluate](https://pypi.org/project/evaluate/)
-    * [Gradio](https://pypi.org/project/gradio/)
-    * [Sentencepiece](https://pypi.org/project/sentencepiece/)
-    * [Torch](https://pypi.org/project/torch/)
+* [Transformers](https://pypi.org/project/transformers/)
+* [Dataset](https://pypi.org/project/datasets/)
+* [Evaluate](https://pypi.org/project/evaluate/)
+* [Gradio](https://pypi.org/project/gradio/)
+* [Sentencepiece](https://pypi.org/project/sentencepiece/)
+* [Torch](https://pypi.org/project/torch/)
 
 ## Author
 [Kabeer Akande](https://www.linkedin.com/in/koakande/)
