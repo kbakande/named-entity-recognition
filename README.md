@@ -53,7 +53,7 @@ To run this app locally, clone the repository:
 
 ```bash
 git clone git@github.com:kbakande/named-entity-recognition.git
-cd named-entity-recognition-main
+cd named-entity-recognition
 ```
 
 ## Managing Dependencies with Poetry
