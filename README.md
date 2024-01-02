@@ -24,7 +24,7 @@ This repository contains the source code for a Named Entity Recognition (NER) ap
 ## Demonstration
 The image below shows the app in action. You can also try it [here!](https://huggingface.co/spaces/koakande/named_entity_recognition)
 
-(images/named_entity_viz.png)
+![NER](images/named_entity_viz.png)
 
 ## Repository Structure
 
