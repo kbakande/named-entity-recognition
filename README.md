@@ -22,7 +22,9 @@ This repository contains the source code for a Named Entity Recognition (NER) ap
 - **Hugging Face Integration**: The app is designed to be compatible with Hugging Face Spaces, providing a user-friendly interface and easy access.
 
 ## Demonstration
-The image below shows the app in action. You can also try it put ![here!](images/named_entity_viz.png)
+The image below shows the app in action. You can also try it put ![here!](https://huggingface.co/spaces/koakande/named_entity_recognition)
+
+(images/named_entity_viz.png)
 
 ## Repository Structure
 
